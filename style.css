@@ -212,7 +212,7 @@ header .navbar ul li a:hover{
 }
 
 .about .row .counter .box{
-    width:20rem;
+    width:50rem;
     background:#222;
     text-align: center;
     padding: 2rem;
@@ -239,7 +239,7 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box{
-    width:27rem;
+    width:50rem;
     margin:4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
