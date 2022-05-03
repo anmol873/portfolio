@@ -239,13 +239,17 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box{
-    width:50rem;
+    width:40rem;
     margin:4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
     position: relative;
 }
 
+.skills
+{
+    margin-top: 10rem;
+}
 .education .box-container .box span{
     font-size: 1.3rem;
     background:#222;
@@ -289,7 +293,7 @@ header .navbar ul li a:hover{
 
 .portfolio .box-container .box{
     height: 20rem;
-    width:26rem;
+    width: 20rem;
     border-radius: 1rem;
     margin:2rem;
     overflow: hidden;
